@@ -1,0 +1,10 @@
+{
+    "button.howto": "打开指南",
+    "button.stopremind": "不再显示",
+    "warning.32bit": "您正在64位系统上使用32位Java，请安装64位Java。",
+    "warning.overrecommended": "分配的内存（%s mB）超过系统推荐值，推荐值为：%s mB。\n",
+    "warning.recommendedbelowmin": "系统推荐的内存 %s 低于此模组包所需的最小值 %s mB。您可能会遇到频繁卡顿等问题。\n",
+    "warning.toolow": "分配的内存（%s mB）低于此模组包推荐的最小值，最小值为：%s mB。推荐值为：%s mB。\n",
+    "warning.toomuch": "分配的内存（%s mB）超过此模组包推荐的最大值，最大值为：%s mB。推荐值为：%s mB。\n",
+    "warning.underrecommended": "分配的内存（%s mB）低于系统推荐值，推荐值为：%s mB。\n"
+}

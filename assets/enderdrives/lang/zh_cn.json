@@ -1,0 +1,12 @@
+{
+    "item.enderdrives.tape_disk": "磁带盘物品存储元件",
+    "screen.enderdrives.tooltip.minus_1": "-1",
+    "screen.enderdrives.tooltip.minus_16": "-16",
+    "screen.enderdrives.tooltip.minus_256": "-256",
+    "screen.enderdrives.tooltip.plus_1": "+1",
+    "screen.enderdrives.tooltip.plus_16": "+16",
+    "screen.enderdrives.tooltip.plus_256": "+256",
+    "tooltip.enderdrives.partitioned": "§7已分区：§f%s 个物品",
+    "tooltip.enderdrives.tape.bytes": "%1$s / %2$s 字节已使用",
+    "tooltip.enderdrives.tape.types": "%1$s / %2$s 类型"
+}

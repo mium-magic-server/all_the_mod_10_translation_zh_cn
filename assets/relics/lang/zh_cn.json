@@ -1,0 +1,20 @@
+{
+    "effect.relics.immortality": "不死",
+    "itemGroup.relics": "遗物",
+    "tooltip.relics.holy_locket.ability.ascension": "飞升",
+    "tooltip.relics.holy_locket.ability.ascension.description": "击杀目标时，遗物佩戴者获得一个临时叠加的不死效果，持续%2$s秒，最多可达%1$s秒。",
+    "tooltip.relics.holy_locket.ability.faith": "信仰",
+    "tooltip.relics.holy_locket.ability.faith.description": "拥有2种可切换模式：神圣与不神圣。在红色神圣模式下，从可见实体在%3$s格半径内偷取%1$s%%的治疗量，并转移给遗物佩戴者。在蓝色不神圣模式下，对相同半径内所有可见实体造成%2$s%%的治疗量的伤害。",
+    "tooltip.relics.holy_locket.ability.penitence": "忏悔",
+    "tooltip.relics.holy_locket.ability.penitence.description": "点燃亡灵敌人10秒，并增加对其造成的伤害%1$s%%。",
+    "tooltip.relics.holy_locket.leveling_source.ascension.description": "每次激活%2$s能力时，获得 +%1$s 经验点。",
+    "tooltip.relics.holy_locket.leveling_source.ascension.title": "飞升",
+    "tooltip.relics.holy_locket.leveling_source.faith.description": "每次激活%2$s能力时，获得 +%1$s 经验点。",
+    "tooltip.relics.holy_locket.leveling_source.faith.title": "信仰",
+    "tooltip.relics.holy_locket.leveling_source.penitence.description": "每次在未燃烧的亡灵敌人上激活%2$s能力时，获得 +%1$s 经验点。",
+    "tooltip.relics.holy_locket.leveling_source.penitence.title": "忏悔",
+    "tooltip.relics.leafy_ring.description": "[WIP]",
+    "tooltip.relics.relic.status.negative": "§4§l[§4§l✘§4§l]",
+    "tooltip.relics.relic.status.positive": "§2§l[§2§l✔§2§l]",
+    "tooltip.relics.relic.status.unknown": "§6§l[§6§l?§6§l]"
+}

@@ -1,0 +1,12 @@
+{
+    "key.theurgy.category": "神通术",
+    "key.theurgy.change_item_mode": "更改物品模式",
+    "tag.item.theurgy.alchemical_sulfurs.herbs": "炼金硫：草药",
+    "tag.item.theurgy.alchemical_sulfurs.herbs.abundant": "炼金硫：丰足草药",
+    "tag.item.theurgy.alchemical_sulfurs.herbs.common": "炼金硫：常见草药",
+    "tag.item.theurgy.alchemical_sulfurs.herbs.precious": "炼金硫：珍贵草药",
+    "tag.item.theurgy.alchemical_sulfurs.herbs.rare": "炼金硫：稀有草药",
+    "theurgy.gui.category.smelting.time.seconds": "%ss",
+    "theurgy.jei.misc.source_pedestal_count": "%sx",
+    "theurgy.misc.unit.millibuckets": "%smB"
+}

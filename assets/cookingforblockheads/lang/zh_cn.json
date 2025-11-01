@@ -1,0 +1,17 @@
+{
+    "block.cookingforblockheads.white_oven": "烤炉",
+    "config.cookingforblockheads.excludedRecipes": "排除的配方",
+    "config.cookingforblockheads.excludedRecipes.tooltip": "应从配方书中排除的配方ID列表。",
+    "config.jade.plugin_cookingforblockheads.preservation_chamber": "保鲜室",
+    "container.cookingforblockheads.cutting_board": "砧板",
+    "gui.cookingforblockheads.moved_to_oven": "移动至烤炉",
+    "tag.item.cookingforblockheads.foods": "食物",
+    "tag.item.cookingforblockheads.ingredients": "材料",
+    "tag.item.cookingforblockheads.kitchen_item_providers": "厨房物品提供者",
+    "tag.item.cookingforblockheads.milk": "牛奶",
+    "tag.item.cookingforblockheads.utensils": "厨具",
+    "tag.item.cookingforblockheads.water": "水",
+    "tooltip.cookingforblockheads.connector.description": "连接厨房方块的角落。",
+    "tooltip.cookingforblockheads.kitchen_upgrade": "厨房升级",
+    "tooltip.cookingforblockheads.sort_by_eatenness": "按已食用排序"
+}

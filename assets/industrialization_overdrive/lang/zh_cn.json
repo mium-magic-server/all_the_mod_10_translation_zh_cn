@@ -1,0 +1,21 @@
+{
+    "block.industrialization_overdrive.multi_processing_array": "处理阵列",
+    "block.industrialization_overdrive.pyrolyse_oven": "煅烧炉",
+    "item.industrialization_overdrive.terminal": "终端",
+    "itemGroup.industrialization_overdrive.industrialization_overdrive": "工业化加速",
+    "pyro_tier.industrialization_overdrive.modern_industrialization.cupronickel_coil": "白铜级",
+    "pyro_tier.industrialization_overdrive.modern_industrialization.kanthal_coil": "铁铬铝合金级",
+    "rei_categories.industrialization_overdrive.pyrolyse_oven": "煅烧炉",
+    "text.industrialization_overdrive.coils_pyro_tier": "以%2$s的EU消耗，批量运行最多%d次电力高炉配方。",
+    "text.industrialization_overdrive.machine_batcher_coils": "批处理数量和消耗由所用线圈决定。",
+    "text.industrialization_overdrive.multi_processing_array_batch_size": "批处理数量由提供给它的机器数量决定。",
+    "text.industrialization_overdrive.multi_processing_array_eu_cost_multiplier": "以%s的EU消耗运行。",
+    "text.industrialization_overdrive.multi_processing_array_machine_input": "插入电动合成多方块以并行运行。",
+    "text.industrialization_overdrive.multi_processing_array_recipe": "可以批量运行任何提供给它的电动合成多方块的配方。",
+    "text.industrialization_overdrive.multi_processing_array_size": "机器数量：%d",
+    "text.industrialization_overdrive.terminal_help_1": "- 按 %s + %s 在一个MI多方块上自动构建它。",
+    "text.industrialization_overdrive.terminal_help_2": "- 需要部件在你的背包中。",
+    "text.industrialization_overdrive.terminal_help_2_alt": "- 需要部件在你的背包中或一个连接的ME系统中。",
+    "text.industrialization_overdrive.terminal_link_info": "连接到一个位于 %s 的ME系统。",
+    "text.industrialization_overdrive.terminal_link_not_linked": "未连接到ME系统。"
+}

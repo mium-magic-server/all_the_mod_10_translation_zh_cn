@@ -1,0 +1,9 @@
+{
+    "configuration.ctm.connect_inside": "内部连接CTM",
+    "configuration.ctm.connect_inside.tooltip": "选择CTM方块的内角是否断开 - https://imgur.com/eUywLZ4",
+    "configuration.ctm.disable": "禁用CTM",
+    "configuration.ctm.disable.tooltip": "完全禁用连接纹理",
+    "ctm.configuration.section.ctm.toml": "CTM配置",
+    "ctm.configuration.section.ctm.toml.title": "CTM配置",
+    "ctm.configuration.title": "CTM配置"
+}

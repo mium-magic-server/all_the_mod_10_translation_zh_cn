@@ -1,0 +1,14 @@
+{
+    "item.mob_bottle.tooltip": "装有 : %s",
+    "item.mob_bottle.tooltip_empty": "用玻璃瓶右击一个被缩放的实体以捕捉",
+    "item.mob_bottle.tooltip_with_name": "装有 : %s (%s)",
+    "item.shrink.shrink_bottle": "玻璃瓶",
+    "item.shrink.shrinking_device": "个人缩放装置",
+    "itemGroup.shrink": "缩小",
+    "key.shrink.category": "缩小",
+    "key.shrink.shrink": "切换缩小",
+    "shrink.deny_shrink": "由于拒绝标签阻止了实体的缩小",
+    "shrink.message.already_shrunk": "在已缩小状态下无法打开",
+    "shrink.message.missing": "缺少缩小属性",
+    "shrink.message.power": "能量不足"
+}

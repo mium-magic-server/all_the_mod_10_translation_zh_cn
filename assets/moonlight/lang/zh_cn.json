@@ -1,0 +1,7 @@
+{
+    "message.moonlight.cached": "缓存资源",
+    "message.moonlight.cached_zipped": "压缩缓存资源",
+    "message.moonlight.merged_pack.description": "为 %s 个模组的资源",
+    "message.moonlight.merged_pack.title": "Moonlight 动态资源",
+    "message.moonlight.runtime": "运行时资源"
+}

@@ -1,0 +1,16 @@
+{
+    "chat.reliquary.fortune_coin.off": "关闭",
+    "chat.reliquary.fortune_coin.on": "开启",
+    "item.reliquary.handgun.tooltip2": "%s x %s",
+    "item.reliquary.harvest_rod.tooltip3": "%s: %s",
+    "item.reliquary.xp_bucket": "经验桶",
+    "potion.potency.10": "XI",
+    "potion.potency.6": "VII",
+    "potion.potency.7": "VIII",
+    "potion.potency.8": "IX",
+    "potion.potency.9": "X",
+    "tooltip.reliquary.shift": "Shift",
+    "tooltip.reliquary.xp": "XP",
+    "waila.reliquary.pedestal.state.off": "关闭",
+    "waila.reliquary.pedestal.state.on": "开启"
+}

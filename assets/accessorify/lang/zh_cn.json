@@ -1,0 +1,6 @@
+{
+    "category.accessorify.keybindings": "Accessorify",
+    "gui.accessorify.coordinates_xyz": "%s %s %s",
+    "gui.accessorify.coordinates_xz": "%s %s",
+    "gui.accessorify.time": "%s:%s"
+}

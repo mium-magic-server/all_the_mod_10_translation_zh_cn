@@ -1,0 +1,7 @@
+{
+    "commands.computercraft.generic.no": "否",
+    "commands.computercraft.generic.position": "%s, %s, %s",
+    "commands.computercraft.generic.yes": "是",
+    "gui.computercraft.config.http": "HTTP",
+    "itemGroup.computercraft": "计算机Craft"
+}

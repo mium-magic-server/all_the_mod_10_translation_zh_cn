@@ -1,0 +1,17 @@
+{
+    "gui.sfm.label_gun.label_button": "%s (%d)",
+    "gui.sfm.manager.button.discord": "Discord",
+    "gui.sfm.program_editor_config.preferred_editor.v2": "V2",
+    "log.sfm.cable_network.body": "%s",
+    "log.sfm.cable_network.footer": "=============================",
+    "log.sfm.label_position_holder.body": "%s",
+    "log.sfm.label_position_holder.footer": "=============================",
+    "log.sfm.program.voided_resources": "%s",
+    "log.sfm.statement.tick.forget": "FORGET %s",
+    "log.sfm.statement.tick.if.false": "FALSE: %s",
+    "log.sfm.statement.tick.if.true": "TRUE: %s",
+    "log.sfm.statement.tick.input": "%s",
+    "log.sfm.statement.tick.output": "%s",
+    "program.sfm.error.literal": "%s",
+    "sfm.error.bad_translation_argument": "Failed to create translatable contents for key \"{}\" with error {}"
+}

@@ -1,0 +1,9 @@
+{
+    "algorithm.nochatreports.aes_cfb8_base64.name": "AES/CFB8+Base64R",
+    "algorithm.nochatreports.aes_ecb_base64.name": "AES/ECB+Base64R",
+    "algorithm.nochatreports.aes_gcm_base64.name": "AES/GCM+Base64R",
+    "algorithm.nochatreports.caesar.name": "Caesar",
+    "configuration.NoChatReports.config": "No Chat Reports",
+    "key.nochatreports.cmd": "Cmd",
+    "key.nochatreports.ctrl": "Ctrl"
+}

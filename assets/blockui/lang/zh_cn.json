@@ -1,0 +1,10 @@
+{
+    "blockui.config.default.boolean": "[默认: %s]",
+    "blockui.config.default.enum": "[默认: %s，值: %s]",
+    "blockui.config.default.number": "[默认: %s，最小: %s，最大: %s]",
+    "blockui.config.default.string": "[默认: %s]",
+    "blockui.container_gui.client_side_only": "容器内容仅在集成服务器（单人游戏，无局域网）中可见。",
+    "blockui.container_gui.empty": "此容器为空。",
+    "blockui.tooltip.item_additional_info": "按住 %s 显示附加信息",
+    "blockui.tooltip.properties": "方块状态属性："
+}

@@ -1,0 +1,6 @@
+{
+    "Use /locate structure betterwitchhuts:witch_hut instead!": "请使用 /locate structure betterwitchhuts:witch_hut 替代！",
+    "text.autoconfig.betterwitchhuts-fabric-1_21.option.general.disableVanillaWitchHuts": "禁用原版女巫小屋",
+    "text.autoconfig.betterwitchhuts-fabric-1_21.option.general.disableVanillaWitchHuts.@Tooltip": "是否禁用原版女巫小屋。",
+    "text.autoconfig.betterwitchhuts-fabric-1_21.title": "YUNG 的改进版女巫小屋"
+}

@@ -1,0 +1,21 @@
+{
+    "category.elixirum": "Ars Elixirum",
+    "elixirum.alchemy_properties.affix": " %s",
+    "elixirum.alchemy_properties.essence": " x%s %s",
+    "elixirum.alchemy_properties.unknown": " ???",
+    "elixirum.extract.essence": "x%s %s",
+    "itemGroup.elixirum_generic": "Ars Elixirum",
+    "potion.potency.10": "XI",
+    "potion.potency.11": "XI",
+    "potion.potency.12": "XII",
+    "potion.potency.13": "XIII",
+    "potion.potency.14": "XIV",
+    "potion.potency.15": "XV",
+    "potion.potency.16": "XVI",
+    "potion.potency.17": "XVII",
+    "potion.potency.18": "XVIII",
+    "potion.potency.6": "VII",
+    "potion.potency.7": "VIII",
+    "potion.potency.8": "IX",
+    "potion.potency.9": "X"
+}

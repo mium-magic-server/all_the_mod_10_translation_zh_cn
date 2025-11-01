@@ -1,0 +1,12 @@
+{
+    "alias.refinedstorage_jei_integration.refinedstorage1_disk_manipulator": "磁盘操纵器",
+    "gui.refinedstorage_jei_integration.grid.synchronizer": "JEI",
+    "gui.refinedstorage_jei_integration.grid.synchronizer.help": "将搜索框文本同步到JEI过滤器。",
+    "gui.refinedstorage_jei_integration.grid.synchronizer.two_way": "JEI双向",
+    "gui.refinedstorage_jei_integration.grid.synchronizer.two_way.help": "将搜索框文本同步到JEI过滤器，并将JEI过滤器同步到搜索框文本。",
+    "gui.refinedstorage_jei_integration.transfer.all_autocraftable": "所有均可自动合成",
+    "gui.refinedstorage_jei_integration.transfer.ctrl_click_to_autocraft": "CTRL + 单击以自动合成",
+    "gui.refinedstorage_jei_integration.transfer.missing_but_all_autocraftable": "缺失物品，所有均可自动合成",
+    "gui.refinedstorage_jei_integration.transfer.missing_but_some_autocraftable": "缺失物品，部分可自动合成",
+    "gui.refinedstorage_jei_integration.transfer.some_autocraftable": "部分可自动合成"
+}

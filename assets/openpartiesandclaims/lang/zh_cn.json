@@ -1,0 +1,6 @@
+{
+    "gui.xaero_pac_config_option_get": "(%1$s) %2$s = %3$s",
+    "gui.xaero_pac_config_option_sub_inherited": "-",
+    "gui.xaero_pac_config_sub_list_separator": ", ",
+    "gui.xaero_pac_config_sub_list_there_is_more": "..."
+}

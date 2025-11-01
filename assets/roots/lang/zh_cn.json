@@ -1,0 +1,7 @@
+{
+    "roots.tooltip.cost.cost_amount": "x%s",
+    "roots.tooltip.cost.cost_multiplier": "+%s",
+    "roots.tooltip.cost.herb_cost": "%s %s",
+    "roots.tooltip.pouch.color_name": "%s",
+    "roots.tooltip.shift": "Shift"
+}

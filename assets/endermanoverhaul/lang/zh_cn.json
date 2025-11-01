@@ -1,0 +1,13 @@
+{
+    "config.endermanoverhaul.allowPickingUpBlocks": "允许拾取方块",
+    "config.endermanoverhaul.client.title": "末影人革新 客户端",
+    "config.endermanoverhaul.clientConfig": "客户端配置",
+    "config.endermanoverhaul.description": "末影人革新添加了基于生物群系的末影人！",
+    "config.endermanoverhaul.endEndermanTeleportChance": "末地末影人传送概率",
+    "config.endermanoverhaul.flashScreen": "屏幕闪光",
+    "config.endermanoverhaul.friendlyEndermanDespawn": "友好末影人消失",
+    "config.endermanoverhaul.friendlyEndermanTeleport": "友好末影人传送",
+    "config.endermanoverhaul.replaceMekanismBabyEnderman": "替换Mekanism幼年末影人",
+    "config.endermanoverhaul.title": "末影人革新",
+    "subtitles.endermanoverhaul.entity.icy_pearl.hit": "寒冰珍珠击中"
+}

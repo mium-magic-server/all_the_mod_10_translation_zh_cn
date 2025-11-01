@@ -1,0 +1,15 @@
+{
+    "block.draconicevolution.structure_block": "",
+    "gui.draconicevolution.dislocator.add_1": "+1",
+    "gui.draconicevolution.dislocator.add_16": "+16",
+    "module.draconicevolution.aoe.value": "%s×%s",
+    "module.draconicevolution.energy_link.activation.value": "%s OP",
+    "module.draconicevolution.energy_link.transfer.value": "%s OP/t",
+    "module.draconicevolution.jump.value": "+%s%%",
+    "module.draconicevolution.proj_accuracy.value": "%s%%",
+    "module.draconicevolution.proj_damage.value": "%s%%",
+    "module.draconicevolution.proj_grav_comp.value": "%s%%",
+    "module.draconicevolution.proj_penetration.value": "%s%%",
+    "module.draconicevolution.speed.value": "+%s%%",
+    "module.draconicevolution.undying.energy.value": "%sOP @%s OP/t"
+}

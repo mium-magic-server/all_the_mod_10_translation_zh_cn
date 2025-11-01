@@ -1,0 +1,15 @@
+{
+    "Use /locate structure betterdeserttemples:desert_temple instead!": "请使用 /locate structure betterdeserttemples:desert_temple！",
+    "betterdeserttemples.advancements.root.description": "在沙漠深处的某处……",
+    "betterdeserttemples.advancements.root.title": "YUNG的改良沙漠神庙",
+    "betterdeserttemples.advancements.temple_clear.description": "击败法老并解除神庙的诅咒",
+    "betterdeserttemples.advancements.temple_clear.title": "永恒沉眠",
+    "betterdeserttemples.advancements.temple_entry.description": "发现一座改良的沙漠神庙",
+    "betterdeserttemples.advancements.temple_entry.title": "一座古老的墓穴",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue": "应用挖掘疲劳",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[0]": "是否在神庙中应用挖掘疲劳效果",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.applyMiningFatigue.@Tooltip[1]": "如果尚未清除。",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids": "禁用原版金字塔",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.option.general.disableVanillaPyramids.@Tooltip": "是否禁用原版沙漠金字塔。",
+    "text.autoconfig.betterdeserttemples-fabric-1_21.title": "YUNG的改良沙漠神庙"
+}

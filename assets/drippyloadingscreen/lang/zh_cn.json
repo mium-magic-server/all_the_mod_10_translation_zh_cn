@@ -1,0 +1,7 @@
+{
+    "drippyloadingscreen.settings.customize_loading_screen": "自定义加载屏幕",
+    "drippyloadingscreen.settings.fade_out_loading_screen": "淡出加载屏幕: %s",
+    "drippyloadingscreen.settings.fade_out_loading_screen.desc": "是否让加载屏幕淡出。",
+    "drippyloadingscreen.settings.wait_for_textures_in_loading": "加载时等待纹理: %s",
+    "drippyloadingscreen.settings.wait_for_textures_in_loading.desc": "如果启用此功能，模组将在加载屏幕中等待纹理，以防止在重新加载资源时出现闪烁。\n\n如果遇到卡顿，请禁用此功能。"
+}

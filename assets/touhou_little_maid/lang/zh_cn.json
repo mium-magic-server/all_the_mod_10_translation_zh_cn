@@ -1,0 +1,20 @@
+{
+    "advancements.touhou_little_maid.base.build_altar.title": "建造完成",
+    "advancements.touhou_little_maid.base.change_maid_model.title": "Cosplay！",
+    "advancements.touhou_little_maid.challenge.eat_enchanted_golden_apple.title": "好苹果",
+    "advancements.touhou_little_maid.maid_base.use_red_fox_scroll.title": "永不告别",
+    "advancements.touhou_little_maid.maid_base.use_servant_bell.title": "永不放弃",
+    "advancements.touhou_little_maid.maid_base.use_white_fox_scroll.title": "永不逃避",
+    "commands.touhou_little_maid.chat_tokens.get.info": "%s: %d",
+    "key.category.touhou_little_maid": "东方女仆",
+    "message.touhou_little_maid.missing_patchouli.url": "https://www.curseforge.com/minecraft/mc-mods/patchouli",
+    "model.touhou_little_maid.goliath_doll.desc": "§7-",
+    "model.touhou_little_maid.hourai_doll.desc": "§7-",
+    "model.touhou_little_maid.junko.desc": "§7-",
+    "model.touhou_little_maid.maribel_hearn.desc": "§7-",
+    "model.touhou_little_maid.reisen.desc": "§7-",
+    "model.touhou_little_maid.shanghai_doll.desc": "§7-",
+    "model.touhou_little_maid.tokiko.desc": "§7-",
+    "model.touhou_little_maid.usami_renko.desc": "§7-",
+    "painting.touhou_little_maid.wine_fox.author": "HanakazeT8"
+}

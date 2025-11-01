@@ -1,0 +1,7 @@
+{
+    "modifier.cloth-config.alt": "Alt + %s",
+    "modifier.cloth-config.ctrl": "Ctrl + %s",
+    "modifier.cloth-config.shift": "Shift + %s",
+    "text.cloth-config.disabled_tooltip": "禁用（未满足要求）",
+    "text.cloth-config.testing.2": "Cloth Config Wiki"
+}

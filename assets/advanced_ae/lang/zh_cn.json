@@ -1,0 +1,15 @@
+{
+    "gui.advanced_ae.ApplyToAll": "应用至全部",
+    "gui.advanced_ae.OverdriveThroughputMonitorValue": "%s%s/t",
+    "gui.advanced_ae.SlowThroughputMonitorValue": "%s%s/m",
+    "gui.advanced_ae.SlowerThroughputMonitorValue": "%s%s/10m",
+    "gui.advanced_ae.ThroughputMonitorValue": "%s%s/s",
+    "gui.tooltips.advanced_ae.DirectionalOutputHint": "配置允许自动输出的方向",
+    "gui.tooltips.advanced_ae.Disabled": "禁用",
+    "gui.tooltips.advanced_ae.Enabled": "启用",
+    "gui.tooltips.advanced_ae.RegulateCategory": "固定数量",
+    "gui.tooltips.advanced_ae.RegulateOff": "即使超出过滤器设定，仍保留已输出的物品",
+    "gui.tooltips.advanced_ae.RegulateOn": "尝试输入超出过滤器设定的物品",
+    "gui.tooltips.advanced_ae.TankAmount": "%s / %s B",
+    "gui.upgrades.advanced_ae.Pick-CraftUpgrade": "点选合成"
+}

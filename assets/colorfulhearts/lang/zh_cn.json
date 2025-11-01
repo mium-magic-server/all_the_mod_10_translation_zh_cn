@@ -1,0 +1,16 @@
+{
+    "colorfulhearts.options.button.absorption_colors": "吸收",
+    "colorfulhearts.options.button.cancel": "取消",
+    "colorfulhearts.options.button.confirmsave": "保存并退出",
+    "colorfulhearts.options.button.health_colors": "健康",
+    "colorfulhearts.options.button.hearttype.frozen": "冰冻",
+    "colorfulhearts.options.button.hearttype.normal": "普通",
+    "colorfulhearts.options.button.hearttype.poisoned": "毒蚀",
+    "colorfulhearts.options.button.hearttype.withered": "凋亡",
+    "colorfulhearts.options.button.vanillaheart.false": "原版：关闭",
+    "colorfulhearts.options.button.vanillaheart.true": "原版：开启",
+    "colorfulhearts.screen.absorption.title": "吸收颜色",
+    "colorfulhearts.screen.configuration.colors.category": "颜色",
+    "colorfulhearts.screen.configuration.title": "Colorful Hearts",
+    "colorfulhearts.screen.health.title": "健康颜色"
+}

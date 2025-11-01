@@ -1,0 +1,9 @@
+{
+    "block.redstonepen.control_box.error.parse_error": "解析错误",
+    "redstonepen.overlay.direct_power": "[%1$s]",
+    "redstonepen.overlay.direct_power_at": "[%1$s] @ %2$s",
+    "redstonepen.overlay.indirect_power": "(%1$s) @ %2$s",
+    "redstonepen.overlay.remote_saved": "链接已保存 %4$s [%1$s, %2$s, %3$s]",
+    "redstonepen.overlay.track_power": "<%1$s>",
+    "redstonepen.overlay.wire_power": "<%1$s>"
+}

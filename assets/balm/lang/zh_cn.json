@@ -1,0 +1,20 @@
+{
+    "balm.configuration.exampleCategory": "示例类别",
+    "config.balm.exampleBoolean": "示例布尔值",
+    "config.balm.exampleCategory.exampleFloat": "示例浮点数",
+    "config.balm.exampleCategory.innerField": "示例内部字段",
+    "config.balm.exampleEnum": "示例枚举",
+    "config.balm.exampleEnumList": "示例枚举列表",
+    "config.balm.exampleInt": "示例整数",
+    "config.balm.exampleIntList": "示例整数列表",
+    "config.balm.exampleMultilineString": "示例多行字符串",
+    "config.balm.exampleResourceLocationSet": "示例资源位置集合",
+    "config.balm.exampleString": "示例字符串",
+    "config.balm.exampleStringList": "示例字符串列表",
+    "config.jade.plugin_balm.jade": "Balm",
+    "disconnect.balm.mod_missing_on_client": "您没有安装 %s。请安装 %s 版本 %s 以在该服务器上进行游戏。",
+    "disconnect.balm.mod_missing_on_server": "服务器没有安装 %s。请从游戏中移除该模组，或在服务器上安装。",
+    "disconnect.balm.mod_version_mismatch": "%s 版本不匹配。服务器期望版本 %s，但您当前安装的是 %s。请安装正确的版本。",
+    "tag.item.c.chests.chests": "木箱",
+    "tag.item.c.cooking_oil": "食用油"
+}

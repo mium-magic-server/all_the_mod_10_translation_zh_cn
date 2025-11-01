@@ -1,0 +1,9 @@
+{
+    "commands.curios.drop.success": "已将%2$s的%1$s槽位中物品丢出",
+    "commands.curios.dropAll.success": "已将%1$s的所有槽位中物品丢出",
+    "commands.curios.replace.success": "已将%2$s的%1$s槽位替换为%3$s",
+    "curios.networking.failed": "饰品网络故障",
+    "curios.tooltip.inactive": "未激活槽位",
+    "gui.curios.page": "页码 %d / %d",
+    "gui.curios.toggle.cosmetics": "切换装饰品"
+}

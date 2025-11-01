@@ -1,0 +1,5 @@
+{
+    "tooltip.ironjetpacks.hud": "HUD",
+    "tooltip.ironjetpacks.state_tooltip_layout": "%s | %s | %s | %s",
+    "tooltip.ironjetpacks.throttle": "油门： %s"
+}

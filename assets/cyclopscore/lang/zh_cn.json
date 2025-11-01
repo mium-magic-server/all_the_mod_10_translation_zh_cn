@@ -1,0 +1,15 @@
+{
+    "general.cyclopscore.dev_world": "开发者世界",
+    "gui.cyclopscore.down": "下",
+    "gui.cyclopscore.infobook": "信息手册",
+    "gui.cyclopscore.left": "左",
+    "gui.cyclopscore.rewards": "奖励",
+    "gui.cyclopscore.right": "右",
+    "gui.cyclopscore.scrollbar": "滚动",
+    "gui.cyclopscore.search": "搜索",
+    "gui.cyclopscore.up": "上",
+    "infobook.cyclopscore.external": "网页版本",
+    "infobook.cyclopscore.keybinding": "按键绑定",
+    "infobook.cyclopscore.keybindings": "按键绑定",
+    "itemGroup.cyclopscore": "Cyclops 核心"
+}

@@ -1,0 +1,13 @@
+{
+    "dimension.ae2.spatial_storage": "AE2 空间存储",
+    "exported_setting.ae2.exported_p2p_type": "P2P 类型",
+    "gui.ae2.CompatibleUpgrade": "%s (%s)",
+    "gui.ae2.ETAFormat": "HH:mm:ss",
+    "gui.ae2.Resume": "播放",
+    "gui.ae2.SearchTooltipToolTips": "使用 $ 在提示中搜索 ($looting)",
+    "gui.ae2.Suspend": "停止",
+    "gui.ae2.ToastCraftingJobFinishedText": "%d %s",
+    "gui.ae2.units.appliedenergistics": "AE",
+    "gui.ae2.units.fe": "FE",
+    "theoneprobe.ae2.stored_energy": "%1$d / %2$d"
+}

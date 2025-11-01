@@ -1,0 +1,7 @@
+{
+    "death.attack.createaddition.barbed_wire": "%1$s试图穿越铁丝网",
+    "death.attack.createaddition.barbed_wire.player": "%1$s在与%2$s战斗时试图穿越铁丝网",
+    "death.attack.createaddition.tesla_coil": "%1$s受到致命电击",
+    "death.attack.createaddition.tesla_coil.player": "%1$s在与%2$s战斗时受到致命电击",
+    "itemGroup.createaddition.main": "Create Crafts & Additions"
+}

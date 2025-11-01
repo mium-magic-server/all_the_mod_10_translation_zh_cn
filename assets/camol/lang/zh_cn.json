@@ -1,0 +1,12 @@
+{
+    "item.camol.camo_item": "伪装方块",
+    "item.camol.camo_item.camo": "伪装方块 - %s",
+    "item.camol.camo_item.hover": "右键点击方块以伪装成该方块。右键点击伪装方块以取消伪装。",
+    "item.camol.camo_item.hover_empty": "在工作台结合一个方块。",
+    "item.camol.camo_item.hover_type": "使用伪装方块的碰撞形状。",
+    "item.camol.solid_camo_item": "保持形状的伪装方块",
+    "item.camol.solid_camo_item.camo": "保持形状的伪装方块 - %s",
+    "item.camol.solid_camo_item.hover": "右击一个方块以伪装成该方块。右击一个伪装的方块以取消伪装。",
+    "item.camol.solid_camo_item.hover_empty": "在工作台结合一个方块。",
+    "item.camol.solid_camo_item.hover_type": "使用伪装方块的碰撞形状。"
+}

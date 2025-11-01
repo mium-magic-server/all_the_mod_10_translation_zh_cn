@@ -1,0 +1,17 @@
+{
+    "config.craftingtweaks.client": "客户端",
+    "config.craftingtweaks.client.disabledAddons": "禁用的附加组件",
+    "config.craftingtweaks.client.disabledAddons.tooltip": "在此处添加你希望禁用Crafting Tweaks支持的模组ID。",
+    "config.craftingtweaks.client.hideVanillaCraftingGuide": "隐藏原版合成指南",
+    "config.craftingtweaks.client.hideVanillaCraftingGuide.tooltip": "我们都清楚JEI更好。此选项隐藏原版的合成书按钮，而不是移动它。",
+    "config.craftingtweaks.client.mode": "模式",
+    "config.craftingtweaks.client.mode.tooltip": "设置为'DEFAULT'以启用按钮和快捷键。设置为'BUTTONS'以仅启用按钮。设置为'HOTKEYS'以仅启用快捷键。设置为'DISABLED'以完全禁用。",
+    "config.craftingtweaks.client.rightClickCraftsStack": "右键合成堆叠",
+    "config.craftingtweaks.client.rightClickCraftsStack.tooltip": "如果设置为true，右键点击合成表中的结果槽将合成一个完整的堆叠。",
+    "config.craftingtweaks.common": "常见",
+    "config.craftingtweaks.common.compressDenylist": "压缩黑名单",
+    "config.craftingtweaks.common.compressDenylist.tooltip": "一个包含不会被压缩键合成的modid:名称条目列表。",
+    "config.craftingtweaks.common.compressRequiresCraftingGrid": "压缩需要合成格",
+    "config.craftingtweaks.common.compressRequiresCraftingGrid.tooltip": "如果希望(解)压缩功能在合成GUI之外工作，请将此设置为false（仅在服务器安装时在玩家背包中有效）",
+    "config.craftingtweaks.title": "合成辅助"
+}

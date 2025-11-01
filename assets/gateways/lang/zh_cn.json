@@ -1,0 +1,12 @@
+{
+    "error.gateways.no_nearby_player": "传送门因附近没有玩家而崩溃",
+    "error.gateways.out_of_lives": "传送门因生命值耗尽而崩溃",
+    "rule.gateways.lives": "生命值: %s",
+    "rule.gateways.requires_nearby_player": "需要附近玩家: %s",
+    "subtitle.gateways.gate_ambient": "传送门环境音",
+    "subtitle.gateways.gate_end": "传送门关闭",
+    "subtitle.gateways.gate_start": "传送门开启",
+    "subtitle.gateways.gate_warp": "传送门生成物体",
+    "text.gateways.errored_gate_pearl": "未知传送门: %s",
+    "tooltip.gateways.dot": "• %s"
+}

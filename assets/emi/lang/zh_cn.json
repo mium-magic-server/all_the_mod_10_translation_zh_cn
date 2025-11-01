@@ -1,0 +1,12 @@
+{
+    "emi.fluid.amount.droplets": "%s d",
+    "emi.fluid.amount.liters": "%s L",
+    "emi.page.short": "%s/%s",
+    "key.keyboard.alt": "Alt",
+    "key.keyboard.control": "Ctrl",
+    "key.keyboard.shift": "Shift",
+    "tag.item.c.buckets.honey": "蜂蜜桶",
+    "tooltip.emi.synfav.batches_remaining": "%s 合成剩余",
+    "tooltip.emi.synfav.obtained": "%s/%s 获得",
+    "tooltip.emi.synfav.remaining": "%s 剩余"
+}

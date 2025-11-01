@@ -1,0 +1,18 @@
+{
+    "gui.refinedstorage.autocrafting_monitor.extracting": "正在提取：%s",
+    "gui.refinedstorage.autocrafting_monitor.state.completed": "已完成",
+    "gui.refinedstorage.autocrafting_monitor.state.extracting_initial_resources": "正在提取初始资源",
+    "gui.refinedstorage.autocrafting_monitor.state.ready": "就绪",
+    "gui.refinedstorage.autocrafting_preview.request_cancelled.craft_subcomponents_and_try_again": "先合成部分子组件，然后重试。",
+    "gui.refinedstorage.autocrafting_preview.request_cancelled.too_many_subcomponents": "需要的子组件过多。",
+    "gui.refinedstorage.autocrafting_preview.style.tree": "树",
+    "gui.refinedstorage.autocrafting_preview.zoom": "缩放",
+    "gui.refinedstorage.grid.sorting.type.id": "ID",
+    "item.refinedstorage.color_and_item_name": "%s %s",
+    "item.refinedstorage.debug_stick": "调试棒",
+    "item.refinedstorage.portable_grid.help": "允许在未连接存储网络的情况下与存储磁盘交互。可以从物品栏中使用，或在蹲下时放置在世界中。",
+    "text.autoconfig.refinedstorage.option.autocraftingPreviewStyle": "自动合成预览样式",
+    "text.autoconfig.refinedstorage.option.autocraftingPreviewStyle.tooltip": "自动合成预览应以列表还是树形显示。",
+    "text.autoconfig.refinedstorage.option.debug": "调试",
+    "text.autoconfig.refinedstorage.option.debug.tooltip": "启用网络调试叠加层和创造模式中的调试棒（需要重启）。"
+}

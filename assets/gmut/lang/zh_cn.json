@@ -1,0 +1,6 @@
+{
+    "constants.gmut.key_category": "Mekanism - 重力调节附加单元",
+    "constants.gmut.mod_name": "重力调节附加单元",
+    "module.gmut.enabled": "启用",
+    "module.gmut.mute_modulating_sound": "静音调节声音"
+}

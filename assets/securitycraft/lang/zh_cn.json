@@ -1,0 +1,15 @@
+{
+    "gui.securitycraft:scManual.option_text": "- %s %s",
+    "messages.securitycraft:blockpocket.position.1": "%s",
+    "messages.securitycraft:formattedCoordinates": "X: %1$s Y: %2$s Z: %3$s",
+    "securitycraft.configuration.allow_breaking_non_owned_blocks": "允许破坏非拥有方块",
+    "securitycraft.configuration.allow_breaking_non_owned_blocks.tooltip": "是否允许非方块拥有者破坏该方块。\n此设置不受“原版工具破坏方块”设置的影响。",
+    "securitycraft.configuration.always_drop": "始终掉落方块",
+    "securitycraft.configuration.always_drop.tooltip": "是否无论使用何种工具，SecurityCraft的方块都会掉落。如果禁用，必须使用正确的工具才能使方块掉落（例如，用镐破坏强化石，或用任何工具破坏强化泥土）。\n此设置仅在“原版工具破坏方块”启用时生效。",
+    "securitycraft.configuration.non_owned_breaking_slowdown": "非拥有方块破坏减速",
+    "securitycraft.configuration.non_owned_breaking_slowdown.tooltip": "破坏非拥有方块时的速度减缓程度。\n计算方式为：正常破坏速度除以非拥有方块破坏减速值。例如：值为2.0表示破坏该方块所需时间是正常情况的两倍。\n此设置仅在“允许破坏非拥有方块”和“原版工具破坏方块”启用时生效。",
+    "securitycraft.configuration.vanilla_tool_block_breaking": "原版工具破坏方块",
+    "securitycraft.configuration.vanilla_tool_block_breaking.tooltip": "是否使用原版工具（斧头、铲子、锄头等）破坏SecurityCraft的方块，而不是使用通用方块移除器。如果启用，通用方块移除器将被禁用。",
+    "tooltip.securitycraft.component.success_chance": "成功率：%s",
+    "tooltip.securitycraft.component.success_chance.disabled": "禁用"
+}

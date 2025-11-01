@@ -1,0 +1,15 @@
+{
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound": "播放钟声",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound.@Tooltip": "是否在首次召唤末影龙和重生时播放钟声",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg": "重生的末影龙掉落龙蛋",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.resummonedDragonDropsEgg.@Tooltip": "是否让末影龙在每次被击败时掉落龙蛋",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially": "初始生成中央塔",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially.@Tooltip": "是否在世界首次生成时在末地生成中央塔",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon": "重生时生成中央塔",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon.@Tooltip": "是否在末影龙重生时在末地生成中央塔",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways": "生成原版末地折跃门",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways.@Tooltip": "是否在末地生成原版末地折跃门而不是改良折跃门",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform": "生成原版黑曜石平台",
+    "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaSpawnPlatform.@Tooltip": "是否在末地生成原版黑曜石平台而不是改良平台",
+    "text.autoconfig.betterendisland-fabric-1_21.title": "YUNG的改良末地岛"
+}

@@ -1,0 +1,10 @@
+{
+    "block.treetap.sap_collector": "收集器",
+    "block.treetap.tap": "水龙头",
+    "block.treetap.wooden_sap_collector": "收集器",
+    "config.jade.plugin_treetap.tap": "水龙头",
+    "item.treetap.tap.modifier": "速度系数：%s",
+    "jei.treetap.life_cycle.all_year": "全年",
+    "jei.treetap.life_cycle.months": "%s",
+    "jei.treetap.tap_extract": "树液采集"
+}

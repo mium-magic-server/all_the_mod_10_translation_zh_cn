@@ -1,0 +1,11 @@
+{
+    "capability.commoncapabilities.inventoryState": "物品栏状态",
+    "capability.commoncapabilities.temperature": "温度",
+    "capability.commoncapabilities.worker": "工人",
+    "capability.commoncapabilities.worldNameable": "可命名世界",
+    "capability.commoncapabilities.wrench": "扳手",
+    "config.commoncapabilities": "%s 配置",
+    "recipecomponent.minecraft.energy": "能量",
+    "recipecomponent.minecraft.fluidstack": "流体",
+    "recipecomponent.minecraft.itemstack": "物品"
+}

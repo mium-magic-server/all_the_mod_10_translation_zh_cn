@@ -1,0 +1,23 @@
+{
+    "colorwheel.alert.ask_disable": "禁用此提示",
+    "colorwheel.alert.broken_pack": "当前光影包包含损坏的着色器，预计会出现图形问题",
+    "colorwheel.alert.broken_pack.disable": "禁用损坏的光影包提示",
+    "colorwheel.alert.incompatible_pack": "光影包 %1$s 不兼容",
+    "colorwheel.alert.incompatible_pack.ask_fallback_mode": "您可以请求 Colorwheel 支持给光影包开发者。您也可以启用 %1$s 以实现完全自动支持。这将导致图形问题，并且不会提供广泛的支援。",
+    "colorwheel.alert.incompatible_pack.disable": "禁用不兼容的光影包提示",
+    "colorwheel.alert.incompatible_pack.patch_available": "您应该在光影包菜单中选择 %1$s",
+    "colorwheel.fallback_mode": "回退模式",
+    "colorwheel.fallback_mode.enable": "启用回退模式",
+    "command.colorwheel.alert_broken_pack.get.off": "损坏的光影包提示已禁用",
+    "command.colorwheel.alert_broken_pack.get.on": "损坏的光影包提示已启用",
+    "command.colorwheel.alert_broken_pack.set.off": "损坏的光影包提示现已禁用",
+    "command.colorwheel.alert_broken_pack.set.on": "损坏的光影包提示现已启用",
+    "command.colorwheel.alert_incompatible_pack.get.off": "不兼容的光影包提示已禁用",
+    "command.colorwheel.alert_incompatible_pack.get.on": "不兼容的光影包提示已启用",
+    "command.colorwheel.alert_incompatible_pack.set.off": "不兼容的光影包提示现已禁用",
+    "command.colorwheel.alert_incompatible_pack.set.on": "不兼容的光影包提示现已启用",
+    "command.colorwheel.fallback_mode.get.off": "回退模式已禁用",
+    "command.colorwheel.fallback_mode.get.on": "回退模式已启用",
+    "command.colorwheel.fallback_mode.set.off": "回退模式现已禁用",
+    "command.colorwheel.fallback_mode.set.on": "回退模式现已启用。此处有龙！"
+}

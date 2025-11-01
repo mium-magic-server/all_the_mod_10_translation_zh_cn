@@ -1,0 +1,5 @@
+{
+    "block.refinedtypes.network_energizer": "网络充能器",
+    "gui.refinedtypes.network_energizer.redstone_mode_help": "当此设备处于非激活状态时，存储网络将不会消耗能量磁盘中的能量以维持自身。",
+    "item.refinedtypes.network_energizer.help": "自动消耗网络中能量磁盘存储的能量以维持网络运行。"
+}

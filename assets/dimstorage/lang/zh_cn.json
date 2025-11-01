@@ -1,0 +1,8 @@
+{
+    "config.jade.plugin_dimstorage.dim_block_base": "启用 DimChest 的自定义可视化",
+    "config.jade.plugin_dimstorage.dim_tank": "启用 DimTank 的自定义可视化",
+    "message.dimstorage.bind_dimchest": "右键绑定 DimChest",
+    "message.dimstorage.for_details": "查看详情",
+    "message.dimstorage.hold": "按住",
+    "message.dimstorage.press": "按下"
+}

@@ -1,0 +1,16 @@
+{
+    "advancement.dungeons_arise.find_kisegi_sanctuary.desc": "找到Kisegi圣所",
+    "advancement.dungeons_arise.find_kisegi_sanctuary.title": "对魔鬼的同情",
+    "advancement.dungeons_arise.find_mechanical_nest.desc": "找到机械巢穴",
+    "advancement.dungeons_arise.find_mechanical_nest.title": "欢迎来到机器",
+    "enchantment.dungeons_arise.discharge": "放电",
+    "enchantment.dungeons_arise.discharge.desc": "攻击敌人会积累速度，但高速度会引发剧烈爆炸，对攻击者和目标都造成伤害。",
+    "enchantment.dungeons_arise.ensnaring": "束缚",
+    "enchantment.dungeons_arise.ensnaring.desc": "有一定几率对敌人施加更强的缓慢效果，并召唤獠牙攻击周围的怪物。",
+    "enchantment.dungeons_arise.lolths_curse": "洛斯诅咒",
+    "enchantment.dungeons_arise.lolths_curse.desc": "攻击敌人时有一定几率恢复生命值，但身体上可能长出蜘蛛。对节肢生物造成伤害会反弹给使用者。",
+    "enchantment.dungeons_arise.purification": "净化",
+    "enchantment.dungeons_arise.purification.desc": "有一定几率抵消所有中毒和凋零效果，并释放能量冲击波，对附近的敌人造成伤害。",
+    "enchantment.dungeons_arise.voltaic_shot": "伏特射击",
+    "enchantment.dungeons_arise.voltaic_shot.desc": "将箭矢充能，使其以直线飞行并引发爆炸。"
+}

@@ -1,0 +1,13 @@
+{
+    "gui.integratedterminalscompat.terminal_storage.craftinggrid.emisync": "EMI 搜索同步",
+    "gui.integratedterminalscompat.terminal_storage.craftinggrid.emisync.info": "将搜索框与 EMI 同步。",
+    "gui.integratedterminalscompat.terminal_storage.craftinggrid.jeisync": "JEI 搜索同步",
+    "gui.integratedterminalscompat.terminal_storage.craftinggrid.jeisync.info": "将搜索框与 JEI 同步。",
+    "gui.integratedterminalscompat.terminal_storage.craftinggrid.reisync": "REI 搜索同步",
+    "gui.integratedterminalscompat.terminal_storage.craftinggrid.reisync.info": "将搜索框与 REI 同步。",
+    "gui.integratedterminalscompat.terminal_storage.jei.transfer.craft.info": "Ctrl+点击以触发自动合成",
+    "gui.integratedterminalscompat.terminal_storage.jei.transfer.craft.info_cmd": "Cmd+点击以触发自动合成",
+    "gui.integratedterminalscompat.terminal_storage.jei.transfer.craftable": "可自动合成物品",
+    "gui.integratedterminalscompat.terminal_storage.jei.transfer.craftable_partial": "部分可自动合成物品",
+    "gui.integratedterminalscompat.terminal_storage.jei.transfer.missing": "缺失物品"
+}

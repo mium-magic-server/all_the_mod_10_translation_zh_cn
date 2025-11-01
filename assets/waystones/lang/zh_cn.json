@@ -1,0 +1,12 @@
+{
+    "chat.waystones.cannot_break_waystone": "你不能破坏这个传送石。",
+    "commands.waystones.list.coordinates": "%d, %d, %d",
+    "config.waystones.general.defaultVisibility": "默认可见性",
+    "config.waystones.general.defaultVisibility.tooltip": "设置为“全局”以使新放置或发现的传送石默认为全局可见。",
+    "waystones.configuration.client": "客户端选项",
+    "waystones.configuration.compatibility": "模组兼容",
+    "waystones.configuration.general": "通用",
+    "waystones.configuration.inventoryButton": "物品栏按钮",
+    "waystones.configuration.teleports": "传送",
+    "waystones.configuration.worldGen": "世界生成"
+}

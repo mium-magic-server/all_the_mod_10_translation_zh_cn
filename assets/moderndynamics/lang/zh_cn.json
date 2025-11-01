@@ -1,0 +1,15 @@
+{
+    "block.moderndynamics.ev_cable": "超高压EU线缆",
+    "block.moderndynamics.hv_cable": "高压EU线缆",
+    "block.moderndynamics.lv_cable": "低压EU线缆",
+    "block.moderndynamics.machine_extender": "机器延展器",
+    "block.moderndynamics.mv_cable": "中压EU线缆",
+    "block.moderndynamics.superconductor_cable": "超导EU线缆",
+    "config.jade.moderndynamics.item_pipe": "物品管道",
+    "gui.moderndynamics.tooltip.filter_nbt": "NBT",
+    "gui.moderndynamics.tooltip.more_info_key": "Shift",
+    "gui.moderndynamics.tooltip.slot.upgrade": "升级插槽",
+    "gui.moderndynamics.tooltip.slot.upgrade_desc1": "对拉取器/提取器/过滤器按U键",
+    "gui.moderndynamics.tooltip.slot.upgrade_desc2": "在EMI/JEI/REI中查看可用升级。",
+    "gui.moderndynamics.tooltip.stuffed": "受堵塞的%s"
+}

@@ -1,0 +1,4 @@
+{
+    "chunkloaders.gui.loaded_chunks.count": "%s",
+    "chunkloaders.gui.loaded_chunks.count_max": "%1$s / %2$s"
+}

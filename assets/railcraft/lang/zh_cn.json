@@ -1,0 +1,15 @@
+{
+    "itemGroup.railcraft": "Railcraft 重生",
+    "key.railcraft.category": "Railcraft 重生",
+    "railcraft.configuration.boreDestroysBlocks": "掘进机破坏方块",
+    "railcraft.configuration.boreMinesAllBlocks": "掘进机挖掘所有方块",
+    "railcraft.configuration.boreMiningSpeedMultiplier": "掘进机挖掘速度倍数",
+    "railcraft.configuration.cartDispenserDelay": "矿车发射器延迟",
+    "railcraft.configuration.chestAllowFluids": "箱子允许流体",
+    "railcraft.configuration.fuelMultiplier": "燃料倍数",
+    "railcraft.configuration.fuelPerSteamMultiplier": "每蒸汽燃料倍数",
+    "railcraft.configuration.maxLauncherTrackForce": "最大发射轨道推力",
+    "railcraft.configuration.strapIronTrackMaxSpeed": "Strap Iron Track max speed",
+    "railcraft.configuration.tankCapacityPerBlock": "Tank capacity per block",
+    "railcraft.configuration.tankStackingEnabled": "Tank stacking enabled"
+}

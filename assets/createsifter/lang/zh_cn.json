@@ -1,0 +1,5 @@
+{
+    "createsifter.recipe.sifting.minimumspeed": "%1$s RPM",
+    "mechanicals.ui.recipe_requirement.advanced_sifter.tooltip.value": "",
+    "mechanicals.ui.recipe_requirement.waterlogged.tooltip.value": ""
+}

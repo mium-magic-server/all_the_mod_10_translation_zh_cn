@@ -1,0 +1,15 @@
+{
+    "ftbquestslangsplitter.commands.added_missing_lang_entries": "已向语言 %s 添加 %s 个缺失条目",
+    "ftbquestslangsplitter.commands.all_lang_file_split": "所有语言文件分割成功",
+    "ftbquestslangsplitter.commands.file_already_exists": "%s 处的文件已存在，跳过...",
+    "ftbquestslangsplitter.commands.lang_file_split": "语言文件 %s 分割成功",
+    "ftbquestslangsplitter.commands.lang_manager_force_saved": "语言管理器已强制保存",
+    "ftbquestslangsplitter.commands.no_missing_entries": "在语言 %s 中没有缺失条目",
+    "ftbquestslangsplitter.commands.permission_denied": "你没有权限运行此命令",
+    "ftbquestslangsplitter.commands.purged_merged_files": "已清除合并文件",
+    "ftbquestslangsplitter.commands.unsupported_locale": "语言 %s 不受支持",
+    "ftbquestslangsplitter.configuration.section.ftbquestslangsplitter.common.toml": "FTB Quests 语言分割器配置",
+    "ftbquestslangsplitter.configuration.section.ftbquestslangsplitter.common.toml.title": "FTB Quests 语言分割器配置",
+    "ftbquestslangsplitter.configuration.title": "FTB Quests 语言分割器配置",
+    "ftbquestslangsplitter.split.lang_saved_reminder": "你正在编辑模式，看起来语言文件已被保存，记得在完成时进行分割！"
+}

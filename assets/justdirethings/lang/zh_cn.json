@@ -1,0 +1,10 @@
+{
+    "entity.justdirethings.creature_catcher": "生物捕捉器",
+    "entity.justdirethings.justdireareaeffectcloud": "范围效果云",
+    "entity.justdirethings.justdirearrow": "凋零之箭",
+    "entity.justdirethings.portal_entity": "深渊传送门",
+    "entity.justdirethings.portal_projectile": "传送门投射物",
+    "itemGroup.DeferredHolder{ResourceKey[minecraft:creative_mode_tab / justdirethings:justdirethings]}": "Just Dire Things",
+    "justdirethings.fillmode.jdtonly": "JustDireThings",
+    "justdirethings.key.category": "Just Dire Things"
+}

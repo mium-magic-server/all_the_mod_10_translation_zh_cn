@@ -1,0 +1,20 @@
+{
+    "badwithernocookiereloaded.general.tooltip": "全局基础声音和事件，你可以取消",
+    "badwithernocookiereloaded.localized settings.silenceus": "示例：entity.sheep.step - 使用 /listen 查看其他声音",
+    "badwithernocookiereloaded.xtra.tooltip": "额外的本地化声音，你可以取消",
+    "bwncr.config.debugMode": "调试模式",
+    "bwncr.config.silenceDragon": "静音龙",
+    "bwncr.config.silenceLightning": "静音闪电",
+    "bwncr.config.silenceTrader": "静音商人",
+    "bwncr.config.silenceUs": "静音我们",
+    "bwncr.config.silenceWither": "静音凋灵",
+    "bwncr.configuration.general": "常规",
+    "text.autoconfig.bwncr.option.general": "常规",
+    "text.autoconfig.bwncr.option.general.debugMode": "调试模式",
+    "text.autoconfig.bwncr.option.general.silenceDragon": "静音龙",
+    "text.autoconfig.bwncr.option.general.silenceLightning": "静音闪电",
+    "text.autoconfig.bwncr.option.general.silenceTrader": "静音商人",
+    "text.autoconfig.bwncr.option.general.silenceUs": "静音我们",
+    "text.autoconfig.bwncr.option.general.silenceWither": "静音凋灵",
+    "text.autoconfig.bwncr.title": "Bad Wither No Cookie - Reloaded"
+}

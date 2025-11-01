@@ -1,0 +1,15 @@
+{
+    "text.nea.enable.customBowRotationLock": "自定义弓旋转锁定",
+    "text.nea.enable.customBowRotationLock.tooltip": "在使用自定义弓动画时，将身体倾斜一定角度",
+    "text.nea.enable.enableHorseLegAnimation": "马腿动画",
+    "text.nea.enable.enableHorseLegAnimation.tooltip": "在骑马时，玩家的腿部会以不同的姿势进行动画播放",
+    "text.nea.line.animations": "动画",
+    "text.nea.line.fixes": "修复",
+    "text.nea.line.fun": "趣味",
+    "text.nea.line.holdup": "举起",
+    "text.nea.line.legacy": "未完成/已弃用",
+    "text.nea.line.rotation": "旋转",
+    "text.nea.line.smoothing": "平滑",
+    "text.nea.tab.holdup": "举起物品",
+    "text.nea.tab.settings": "设置"
+}

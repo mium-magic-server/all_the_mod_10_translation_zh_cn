@@ -1,0 +1,12 @@
+{
+    "hyphapiracea.displays.amp": "%s A",
+    "hyphapiracea.displays.joule": "%s J",
+    "hyphapiracea.displays.millicoulomb": "%s mC",
+    "hyphapiracea.displays.volt": "%s V",
+    "hyphapiracea.leukbox.progress": "%s%%",
+    "item.modifiers.hyphapiracea.equals.m": "%s m %s",
+    "item.modifiers.hyphapiracea.equals.microtesla": "%s µT %s",
+    "item.modifiers.hyphapiracea.equals.ohm_per_meter": "%s Ω/m %s",
+    "item.modifiers.hyphapiracea.equals.watt": "%s W %s",
+    "itemGroup.hyphapiracea.group": "HyphaPiracea"
+}

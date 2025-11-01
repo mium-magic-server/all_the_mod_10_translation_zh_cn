@@ -1,0 +1,9 @@
+{
+    "item.patchouli.guide_book": "指南书",
+    "item.patchouli:intro_book.name": "Patchouli",
+    "patchouli.gui.lexicon.button.toggle_mock_header": "切换模拟标题",
+    "patchouli.gui.lexicon.sad": ":(",
+    "patchouli.gui.lexicon.visualize_letter": "V",
+    "patchouli.networking.open_book.failed": "无法打开书籍 %s",
+    "patchouli.networking.reload_contents.failed": "无法重新加载内容 %s"
+}

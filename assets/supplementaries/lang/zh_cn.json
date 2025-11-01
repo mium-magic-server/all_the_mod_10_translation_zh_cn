@@ -1,0 +1,12 @@
+{
+    "block.supplementaries.structure_temp": "0",
+    "commands.supplementaries.registry.element": "%s : %s",
+    "commands.supplementaries.registry.registry_key": "%s",
+    "jukebox_song.supplementaries.heave_ho": "Hlzfss - Heave Ho!",
+    "jukebox_song.supplementaries.pancake": "Hlzfss - Pancake Music",
+    "message.supplementaries.quiver.tooltip": "%s [%s]",
+    "painting.supplementaries.bombs.author": "Plantkillable",
+    "painting.supplementaries.bombs.title": "Bombs",
+    "painting.supplementaries.jar.author": "TestedBubble",
+    "painting.supplementaries.jar.title": "Jar"
+}

@@ -1,0 +1,6 @@
+{
+    "eu_cost_transformer.tesseract_api.percentage": "%d%%",
+    "text.tesseract_api.mi_machine_batcher_recipe": "可以批量运行 %s 个配方。",
+    "text.tesseract_api.mi_machine_batcher_size_and_cost": "最多以 %d 个为一批运行，消耗 %s 的 EU。",
+    "text.tesseract_api.tooltips_shift_required": "按 [Shift] 查看信息"
+}
