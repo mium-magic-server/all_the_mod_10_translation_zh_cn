@@ -134,7 +134,7 @@
     "text.modern_industrialization.Deactivated": "已停用",
     "text.modern_industrialization.DieselToolFuelHelp1": "- 按下 %s 在储罐上填充或清空。任何流体燃料都可以使用。",
     "text.modern_industrialization.DieselToolFuelHelp2": "- 工具的速度由燃料的EU/mb决定。",
-    "text.modern_industrialization.DieselToolToggle": "- 按下 %s + %s 切换幸运与精准采集。",
+    "text.modern_industrialization.DieselToolToggle": "- 按下 %s + %s 切换时运与精准采集。",
     "text.modern_industrialization.Eu": "%s%s EU",
     "text.modern_industrialization.EuMaxed": "%s / %s %sEU",
     "text.modern_industrialization.EuT": "%s%s EU/t",
